@@ -23,8 +23,7 @@ A responsive, single-page landing website for **Waso Strategy**, a business cons
 ```
 waso-strategy-frontend/
 ├── index.html
-├── css/
-│   └── style.css
+├── style.css
 ├── images/
 │   └── (project images)
 └── README.md
